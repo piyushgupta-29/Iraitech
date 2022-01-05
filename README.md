@@ -11,7 +11,7 @@
   
   The details of the files in the repo are as follows:
   There are two folders named server and Reactjs.The server folder contains all the backend part including database.The Reactjs contains all the frontend part.
-  The elements of the frontend are done using bootstrap.You can see the dependencies used in package.json file in both server and Reactjs folder.
+  The elements of the frontend are done using bootstrap.You can see the dependencies used in package.json file in both server and Reactjs folder
   The backend is running at localhost:5000 whereas the frontend is running at localhost:3000. The frontend and backend are connected by adding 
   "proxy": "http://localhost:5000/" in package.json file of Reactjs folder.
   
